@@ -14,5 +14,5 @@
 
 [![Octavio's github stats](https://github-readme-stats.vercel.app/api?username=octadelsueldo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octadelsueldo)](https://github.com/anuraghazra/github-readme-stats)
 
-Change ?username=khuyentran1401 to ?username=your-username and changeKhuyen to your name. 
