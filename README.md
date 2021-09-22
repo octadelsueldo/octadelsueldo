@@ -14,4 +14,4 @@
 
 - [instagram](https://www.instagram.com/octadelsueldo/)
   
-- [linkedin](linkedin.com/in/octaviodelsueldo)
+- [linkedin](https://www.linkedin.com/in/octaviodelsueldo)
