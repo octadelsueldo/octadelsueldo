@@ -8,9 +8,11 @@
 - ⚡ Fun fact: I love to travel and play rugby
 - 
 ### Connect with me:
-[<img align=”left” alt=”devopsbyte.com” width=”22px” src=”https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align=”left” alt=”jjames- | LinkedIn” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align=”left” alt=”jobin_james_ride | Instagram” width=”22px” src=”https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+- 📫 How to find me: 
+  - :bulb: [Instagram](https://www.instagram.com/octadelsueldo/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/octaviodelsueldo)
+
 
 - [instagram](https://www.instagram.com/octadelsueldo/)
   
