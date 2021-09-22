@@ -12,7 +12,7 @@
   - :bulb: [Instagram](https://www.instagram.com/octadelsueldo/)
   - :office: [LinkedIn](https://www.linkedin.com/in/octaviodelsueldo)
 
-[![Octavio's github stats](https://github-readme-stats.vercel.app/api?username=octadelsueldo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Octavio's github stats](https://github-readme-stats.vercel.app/api?username=octadelsueldo&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octadelsueldo)](https://github.com/anuraghazra/github-readme-stats)
 
