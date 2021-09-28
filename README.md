@@ -1,7 +1,7 @@
 ### Hi there, I’m Octavio 👋
 
 ## I’m a Data Scientist, Husband, and former Rugby Player!
-- 🔭 I’m currently working on the Talend ETL Data Management Platform
+- 🔭 I’m currently working on the Data Governance, Data Quality, Data Modelling, Data Integration and Data Delivery for a Global Supermarket 
 - 🌱 I’m currently learning Advance SQL, Talend ETL Data Management Platform and Qlik Sense.
 - 👯 I’m looking to collaborate with other
 - 🥅 2020 Goals: Study ML in Production, Advance SQL concepts, Deep Undersanting of Mathematics for ML and Deep Reinforcement Learning.
