@@ -1,6 +1,6 @@
 ### Hi there, I’m Octavio 👋
 
-## I’m a Husband, Data Scientist and former Rugby Player!
+## I’m a Father, Husband, Data Scientist and former Rugby Player!
 - 🔭 I’m currently working on the Data Governance, Data Quality, Data Modelling, Data Integration and Data Delivery for a Global Supermarket 
 - 🌱 I’m currently learning Advance SQL, Talend ETL Data Management Platform, Apache Airflow, Java and Scala to create, update and optimize Pipelines.
 - 👯 I’m looking to collaborate with other
