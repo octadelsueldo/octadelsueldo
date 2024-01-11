@@ -1,7 +1,7 @@
 ### Hi there, I’m Octavio 👋
 
 ## I’m a Father, Husband, Data Scientist and former Rugby Player!
-- 🔭 I’m currently working on the Data Governance, Data Quality, Data Modelling, Data Integration and Data Delivery for a Global Supermarket 
+- 🔭 I’m currently working as a lead Machine Learning Enginer and Data Scientist for a Global Supermarket 
 - 🌱 I’m currently learning Advance SQL, Talend ETL Data Management Platform, Apache Airflow, Java and Scala to create, update and optimize Pipelines.
 - 👯 I’m looking to collaborate with other
 - 🥅 2020 Goals: Study ML in Production, Deep Undersanting of Mathematics for ML and Deep Reinforcement Learning and finally advance Pipelines for Data Engineer.
